@@ -1,0 +1,27 @@
+segment_sources:
+  I443C1332:
+    type: origin_type
+    relation: translation
+    base: 79E7
+    lang: en
+  IE5BD8313:
+    type: origin_type
+    relation: translation
+    base: E7A7
+    lang: bo
+segment_pairs:
+  f7ee3a1ac8794d179072770540291336:
+    I443C1332: 0740fb01cd2f4b609783d0fe2c1a6178
+    IE5BD8313: 71d4e82f36fc415d9ed6202e97a85f23
+  05e0c9437b9b464e98ce855dc269c154:
+    I443C1332: 95fb2c004016407e9c7cc39a9fa6b624
+    IE5BD8313: 019a6cd053754a70bebbbece124aa6fd
+  9fa0c4ea01fe41e4b6bb7dc53a8a6567:
+    I443C1332: d65668d5e61849138a37166e077cfb76
+    IE5BD8313: 3d39bc7a995f45609a084ddea009f70a
+  561a167d85024203b4a2c6c9f1991393:
+    I443C1332: 857d43586f794ad2bd87fccb8e46ffcf
+    IE5BD8313: 515848d81aee499397c6673bc6cadaca
+  d5cd954b48444b8882899970d4bd52de:
+    I443C1332: 70374f1f27d846c5be7668e9739f3225
+    IE5BD8313: 3ac28d2f25ce4288bb7c379270996eff

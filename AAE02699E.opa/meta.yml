@@ -1,0 +1,19 @@
+id: AAE02699E
+title: Brief Offering Prayer to Gesar
+type: translation
+pechas:
+- I443C1332
+- IE5BD8313
+source_metadata:
+  languages:
+  - en
+  - bo
+  datatype: PlainText
+  created_at: 2023-01-04 13:07:24.374822
+  last_modified_at: 2023-01-04 13:07:24.374834
+  collections:
+  - Mipham Rinpoche Series
+  - Works of Tibetan Masters
+alignment_to_base:
+  I443C1332/79E7: '6840'
+  IE5BD8313/E7A7: '6840'
